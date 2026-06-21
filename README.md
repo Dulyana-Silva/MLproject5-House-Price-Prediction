@@ -1,2 +1,4 @@
-# MLproject5_House-Price-Prediction
-ml pro
+# House Price Prediction
+
+Process :
+EDA --->  Preprocessing ---> Baseline model ---> Model Selection(CV) ---> Tuning(GridSearchCV) ---> Final Evaluation  ---> Inference.
